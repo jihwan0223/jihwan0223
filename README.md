@@ -1,4 +1,4 @@
-## 안녕하세요
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlghks223)](https://solved.ac/wlghks223/)
 
 <!--
 **jihwan0223/jihwan0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

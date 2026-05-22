@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Hello%20World!&desc=I%60am%20Jihwan&animation=&fontColor=ffffff&fontSize=40" />
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Hello%20World!%20%0AI%60am%20Jihwan&fontColor=ffffff&fontSize=28" />    </div>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Hello%20World!%20I%60am%20Jihwan&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
         <div align="center">
           <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
           <div style="margin: 0 auto; text-align: center;" align="center">
